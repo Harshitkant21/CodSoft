@@ -24,22 +24,22 @@ A simple Java program that calculates a student's grade based on their entered m
 
 ## Example Run
 
-Please enter Student Name: John Doe
-Enter number of subjects: 4
-Enter subjects and marks:
-Enter 1 subject: Math
-Enter marks in Math: 90
-Enter 2 subject: Science
-Enter marks in Science: 85
-Enter 3 subject: English
-Enter marks in English: 75
-Enter 4 subject: History
-Enter marks in History: 70
+Please enter Student Name: John Doe  
+Enter number of subjects: 4  
+Enter subjects and marks:  
+Enter 1 subject: Math  
+Enter marks in Math: 90  
+Enter 2 subject: Science  
+Enter marks in Science: 85  
+Enter 3 subject: English  
+Enter marks in English: 75  
+Enter 4 subject: History  
+Enter marks in History: 70  
 
-{Math=90, Science=85, English=75, History=70}
-Total Marks obtained by JOHN DOE in 4 subjects out of 400 is: 320
-Average percentage of all 4 subjects is: 80.00%
-Grade Scored by JOHN DOE is A
+{Math=90, Science=85, English=75, History=70}  
+Total Marks obtained by JOHN DOE in 4 subjects out of 400 is: 320  
+Average percentage of all 4 subjects is: 80.00%  
+Grade Scored by JOHN DOE is A  
 
 
 
