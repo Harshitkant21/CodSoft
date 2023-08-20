@@ -77,7 +77,6 @@ public class StudentGrade {
         };
         
         // Display the final grade
-        System.out.println();
         System.out.print("Grade Scored by " + sName.toUpperCase() + " is " + grade);
 
         // Close the Scanner to release resources
